@@ -1,0 +1,11 @@
+#include<stdio.h>
+#include<iostream.h.h>
+class helloworld
+{
+  public static void main(String Args[])throws IOException
+  {
+    string name;
+    name="Manish";
+    System.out.println("Name= ", name);
+  }
+}
